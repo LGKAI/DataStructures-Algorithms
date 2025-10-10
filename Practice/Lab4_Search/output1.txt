@@ -1,0 +1,3 @@
+a a a: Hiep hoi xe hoi My
+absolute value: Gia tri cua mot bien bo qua dau cua no.
+book: sach
